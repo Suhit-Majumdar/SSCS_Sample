@@ -1,0 +1,7 @@
+com\wipro\ospo\sscs\repository\SbomRepository.class
+com\wipro\ospo\sscs\service\SbomService.class
+com\wipro\ospo\sscs\service\Service.class
+com\wipro\ospo\sscs\model\Sbom.class
+com\wipro\ospo\sscs\controller\Controller.class
+com\wipro\ospo\sscs\ProjectsApplication.class
+com\wipro\ospo\sscs\AppConfiguration.class
